@@ -1,4 +1,7 @@
+
 #include "StudentDatabase.h"
+#include <map>
+#include <iostream>
 
 // Insert a student into _students map
 void StudentDatabase::addStudent(Student *s) {
